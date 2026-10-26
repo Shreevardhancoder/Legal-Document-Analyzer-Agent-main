@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+torch
+transformers
+chromadb
+nltk
+numpy
+pandas
+google-generativeai
+sentence-transformers
+python-magic
+python-magic-bin; platform_system == "Windows"

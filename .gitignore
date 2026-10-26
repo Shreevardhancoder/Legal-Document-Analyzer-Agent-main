@@ -1,0 +1,15 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+
+# Local databases and vector stores
+chroma_db/
+.chroma/
